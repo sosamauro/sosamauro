@@ -1,4 +1,4 @@
-# Hey👋
+## Hey👋
 
 <!--
 **sosamauro/sosamauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Mauro, a frontend developer and also an advanced student in systems engineering. 
+I'm Mauro, a frontend developer and also an advanced student in systems engineering. 
 
-### Based in Argentina 🇦🇷
+Based in Argentina 🇦🇷
 
-### You can see the cool things I've done on [my website.](https://maurososa.ar)
+You can see the cool things I've done on [my website.](https://maurososa.ar)
 
