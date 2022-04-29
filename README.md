@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Mauro, a frontend developer and also an advanced student in systems engineering based in Argentina 🇦🇷
+## I'm Mauro, a frontend developer and also an advanced student in systems engineering. 
 
-### You can see the cool things I've done on [my website.](https://maurososa.ar)
+## Based in Argentina 🇦🇷
+
+## You can see the cool things I've done on [my website.](https://maurososa.ar)
 
